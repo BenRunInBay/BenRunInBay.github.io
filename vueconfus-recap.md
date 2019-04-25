@@ -19,6 +19,9 @@
 
 ## Especially good presentations:
 
+### Evan You - State of Vuenation
+- [Slides](https://docs.google.com/presentation/d/1EUUu_djeNWa8kRF_uQ0DWReSpoIQn2xXCLh5A-6YdLg/)
+
 ### Natalia Tepluhina gave an outstanding and succinct talk on building Vue for desktop applications
 - [Slides](https://www.slideshare.net/NataliaTepluhina/desktop-apps)
 
